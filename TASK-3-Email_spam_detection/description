@@ -1,1 +1,8 @@
+Email spam detection is the process of automatically identifying and filtering out unwanted or unsolicited emails from a user's inbox. It involves:
 
+Collecting email data (spam and legitimate emails).
+Preprocessing and extracting features from the emails.
+Training a machine learning model (e.g., Naive Bayes, SVM) on labeled data.
+Evaluating the model's performance.
+Integrating the model into email services for real-time spam detection.
+Regularly updating and maintaining the system to adapt to new spam tactics.
